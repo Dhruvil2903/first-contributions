@@ -4,6 +4,7 @@
 - [PrajanManojKumarRekha](https://github.com/PrajanManojKumarRekha)
 - [ooweat](https://github.com/ooweat)
 - [Boris Plotnikov](https://github.com/BorisPlotnikov)
+- [Dhruvil Patel](https://github.com/dhruvil2903)
 - [Rodrigo Castro](https://github.com/rodrigoc-dev)
 - [Sahil Vishwakarma](https://github.com/sahilvish01)
 - Ponapati Spandana
